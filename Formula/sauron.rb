@@ -1,8 +1,8 @@
 class Sauron < Formula
   homepage "https://github.com/etcinit/sauron"
-  url "https://github.com/etcinit/sauron/archive/0.0.2.tar.gz"
-  version "0.0.2"
-  sha256 "88516f495de7f55780400f25b37874ff1d1cbd63ca959408c7e18a9b2207c5d1"
+  url "https://github.com/etcinit/sauron/archive/0.0.3.tar.gz"
+  version "0.0.3"
+  sha256 "b3c0cd8fe6f9088b43d099fcda8049adbae64a6a2e3d63eb7cd21b3c1eb8707e"
 
   depends_on "go" => :build
 
