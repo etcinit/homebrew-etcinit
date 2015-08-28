@@ -21,3 +21,4 @@ class Phpstd < Formula
   test do
     system 'phpstd --version'
   end
+end
