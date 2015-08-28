@@ -4,9 +4,9 @@ require File.expand_path("../../Requirements/phar-requirement", __FILE__)
 
 class Phpstd < Formula
   homepage 'https://github.com/etcinit/php-coding-standard'
-  url 'https://github.com/etcinit/php-coding-standard/releases/download/v0.1.8/phpstd.phar'
-  sha256 '4bafea623467f233fd562c662824d5ea7d5915cfe5e289b998f61523f504e1fd'
-  version 'v0.1.8'
+  url 'https://github.com/etcinit/php-coding-standard/releases/download/v0.1.9/phpstd.phar'
+  sha256 '153fce64267352bf7760b776a61c64fbc546b2266b142ba03888730175913290'
+  version 'v0.1.9'
 
   depends_on PhpMetaRequirement
   depends_on PharRequirement
